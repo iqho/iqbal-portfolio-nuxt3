@@ -1,6 +1,11 @@
 <template lang="">
     <div>
-        <h1>Header</h1>
+
+        <nuxt-link to="/">Home</nuxt-link>
+        <nuxt-link to="/about">About</nuxt-link>
+        <nuxt-link to="/contact">Contact</nuxt-link>
+
+        <h1>Welcome Nuxt Page</h1>
     </div>
 </template>
 <script>

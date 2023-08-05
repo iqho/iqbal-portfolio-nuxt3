@@ -1,1 +1,0 @@
-import{_ as e,l as s,k as o,m as t}from"./entry.81302fd4.js";const n={},c=t("h1",null,"Iqbal Hossen",-1),a=[c];function r(_,l,d,i,p,f){return o(),s("div",null,a)}const m=e(n,[["render",r]]);export{m as default};

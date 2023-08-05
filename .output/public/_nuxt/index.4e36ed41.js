@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,a as t}from"./entry.b13a05c4.js";const n={},c=t("h1",null,"Iqbal Hossen",-1),a=[c];function r(_,d,l,i,p,f){return s(),o("div",null,a)}const h=e(n,[["render",r]]);export{h as default};

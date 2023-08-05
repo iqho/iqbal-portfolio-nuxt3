@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as c,a as t}from"./entry.b13a05c4.js";const s={},n=t("h1",null,"Contact Page",-1),a=t("p",null,"Mobile: 01915649868",-1),_=[n,a];function r(l,d,i,p,u,f){return c(),o("div",null,_)}const m=e(s,[["render",r]]);export{m as default};
