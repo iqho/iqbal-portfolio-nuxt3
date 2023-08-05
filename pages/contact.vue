@@ -1,14 +1,15 @@
-<template lang="">
-    <div>
-        <h1>Contact Page</h1>
-        <p>Mobile: 01915649868</p>
-    </div>
+<template>
+  <div class="text-center">
+    <img
+      src="~/assets/iqbal.jpg"
+      height="500px"
+      width="500px"
+      style="border-radius: 50%"
+    />
+    <h1 class="mt-3">Iqbal Hossen</h1>
+  </div>
 </template>
 <script>
-export default {
-
-}
+export default {};
 </script>
-<style lang="">
-    
-</style>
+<style lang=""></style>

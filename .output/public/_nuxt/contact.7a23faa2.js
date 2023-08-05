@@ -1,0 +1,1 @@
+import{_ as s}from"./iqbal.ad947b18.js";import{_ as e,c as o,o as c,a as t}from"./entry.f529362b.js";const r={},a={class:"text-center"},_=t("img",{src:s,height:"500px",width:"500px",style:{"border-radius":"50%"}},null,-1),n=t("h1",{class:"mt-3"},"Iqbal Hossen",-1),i=[_,n];function d(p,l,h,m,f,u){return c(),o("div",a,i)}const B=e(r,[["render",d]]);export{B as default};

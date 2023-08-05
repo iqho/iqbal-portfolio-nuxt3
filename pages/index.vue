@@ -1,13 +1,16 @@
 <template>
-    <div>
-        <h1>Iqbal Hossen</h1>
-    </div>
+  <div class="text-center">
+    <img
+      src="~/assets/iqbal.jpg"
+      alt="Iqbal Hossen"
+      height="500px"
+      width="500px"
+      style="border-radius: 50%"
+    />
+    <h1 class="mt-3">Iqbal Hossen</h1>
+  </div>
 </template>
 <script>
-export default {
-
-}
+export default {};
 </script>
-<style lang="">
-    
-</style>
+<style lang=""></style>
